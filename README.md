@@ -75,27 +75,6 @@ The UI can later be connected to a backend and database to create a fully functi
 
 ---
 
-## 📂 Project Structure
-
-```text
-patient_appoinment_system/
-│
-├── assets/
-│   ├── images/
-│   └── icons/
-│
-├── css/
-│
-├── js/
-│
-├── index.html
-│
-├── README.md
-│
-└── LICENSE
-```
-
-> Update this structure if your actual project folders are different.
 
 ---
 
@@ -116,17 +95,6 @@ This UI/UX can be extended into a complete appointment management system with fe
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your dashboard here:
-
-```markdown
-![Patient Appointment Dashboard](screenshots/dashboard.png)
-```
-
-You can add additional screenshots as the project grows.
-
----
 
 ## 🔒 License
 
